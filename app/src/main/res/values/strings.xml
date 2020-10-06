@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="type_your_hero">Type your hero</string>
+    <string name="fuerza">Fuerza</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="durabilidad">Durabilidad</string>
+    <string name="poder">Poder</string>
+    <string name="combate">Combate</string>
+</resources>
